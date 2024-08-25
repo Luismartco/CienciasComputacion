@@ -1,1 +1,0 @@
-print('mis peines son de 23 yo no tengo de 10')

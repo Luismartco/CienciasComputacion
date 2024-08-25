@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este repositorio contiene proyectos y ejercicios relacionados con diversas áreas de la ciencias de la computación, incluyendo algoritmos, estructuras de datos, inteligencia artificial, y más. El objetivo es proporcionar recursos y ejemplos prácticos para estudiantes y profesionales.
+Este repositorio contiene proyectos y ejercicios relacionados con diversas áreas de la ciencias de la computación, incluyendo algoritmos, regresion lineal, estructuras de datos, inteligencia artificial, y más. El objetivo es proporcionar recursos y ejemplos prácticos para estudiantes y profesionales.
 
 ## Instalación
 
