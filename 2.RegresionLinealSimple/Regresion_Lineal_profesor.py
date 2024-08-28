@@ -31,3 +31,5 @@ peso_predecido = model.predict(Estatura_nueva)
 
 # Realiza la predicción
 print(f'Peso predicho para estatura 115: {peso_predecido[0][0]}')
+
+print("hola")
