@@ -21,3 +21,5 @@ plt.grid()
 
 # Mostrar el gráfico
 plt.show()
+
+print('hola')
