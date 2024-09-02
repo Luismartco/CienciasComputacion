@@ -22,4 +22,6 @@ plt.grid()
 # Mostrar el gráfico
 plt.show()
 
+print('Aconsejadamente no se corra en codespace')
+
 print('correr en colabs')
