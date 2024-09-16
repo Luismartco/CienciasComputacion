@@ -8,7 +8,7 @@ Este repositorio contiene proyectos y ejercicios relacionados con diversas área
   
 - Incluye áreas como algoritmos, regresión lineal, estructuras de datos e inteligencia artificial
   
--Proporciona recursos y ejemplos prácticos para estudiantes y profesionales
+- Proporciona recursos y ejemplos prácticos para estudiantes y profesionales
 
 ## Instalación
 
