@@ -20,3 +20,7 @@ x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.25, rand
 print("Conjunto de entrenamiento")
 print(x_train)
 print(y_train)
+
+print("Conjunto de prueba")
+print(x_test)
+print(y_test)
