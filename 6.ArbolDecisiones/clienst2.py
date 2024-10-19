@@ -6,6 +6,7 @@ from sklearn.tree import DecisionTreeClassifier
 archivo_excel = 'datos.xlsx'
 dato = pd.read_excel(archivo_excel)
 datos = pd.DataFrame(dato)
+print(datos)
 
 #Conversion de los datos
 datos['Servicios'] = datos['Servicios'].map({'Internet':0, 'Television':1})
